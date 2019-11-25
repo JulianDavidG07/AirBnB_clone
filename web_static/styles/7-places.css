@@ -1,0 +1,28 @@
+.superplaces .places {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.superplaces h1 {
+    margin-top: 25px;
+    margin-left: 15px;
+    text-anchor: 15px;
+    font-size: 30px;
+}
+
+.places article {
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: solid #FF5A5F 1px;
+    border-radius: 4px;
+}
+
+.places article h2 {
+    font-size: 30px;
+    text-align: center;
+}
